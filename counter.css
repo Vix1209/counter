@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    /* padding-bottom: 200px; */
+    background-color: #FFE9AC;
+}
+.container{
+    /* background-image: url(img/463501287_558534.jpg); */
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    padding: 250px 0 250px 0;
+    overflow: hidden;
+}
+h1{
+    margin: 0;
+}
+#increment-btn{
+    background-color: red;
+    border-radius: 20px;
+    color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    width: 100px;
+    height: 40px;
+}
